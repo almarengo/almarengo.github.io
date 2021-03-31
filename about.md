@@ -4,8 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Hi there!! Data Science based out of Vancouver, BC Canada passionate about coding, neural networks and automation.
-I look forward to exploring the worrld of Machine Learning and AI.
+Hi there!! Data Science based out of Vancouver (Canada) passionate about coding, neural networks and automation.
+I look forward to exploring the world of Machine Learning and AI.
 
 ### More Information
 
