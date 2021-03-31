@@ -9,7 +9,7 @@ I look forward to exploring the world of Machine Learning and AI.
 
 ### More Information
 
-I have a Master in Environmental Engineer and I love solving problems with data.
+I have a Master Degree in Environmental Engineering and I love solving problems with data.
 
 ### Contact me
 
