@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi there!! Data Science based out of Vancouver, BC Canada passionate about coding, neural networks and automation.
+I look forward to exploring the worrld of Machine Learning and AI.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I have a Master in Environmental Engineer and I love solving problems with data.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[marengo.albert@gmail.com](mailto:marengo.albert@gmail.com)
